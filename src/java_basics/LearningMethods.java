@@ -12,6 +12,7 @@ public class LearningMethods {
 		MyUtils.sum2Numbers(10, 23);
 //		int myVar = MyUtils.add10(25);
 		System.out.println(MyUtils.add10(25));
+		ExampleClass.doSomething();
 		
 	}
 	
